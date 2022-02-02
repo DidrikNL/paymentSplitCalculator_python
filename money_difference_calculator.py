@@ -25,7 +25,7 @@ class Person:
 
 def main():
     persons = []
-    print(f"Money difference calculator, Python edition\nVersion0.1\nCopyright Didrik NL 2022")
+    print(f"Money difference calculator, Python edition\nVersion1.0\nCopyright Didrik NL 2022")
     inp = ""
     while inp != "N":
         name = ""
